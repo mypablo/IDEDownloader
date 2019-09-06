@@ -7,7 +7,7 @@ public class IDEDownloader {
 	
 	public static void main(String[] args) throws IOException {
 		Scanner scan = new Scanner(System.in);
-		System.out.println("Please copy paste one IDE of the following to download: "+
+		System.out.println("Please type the name of one IDE of the following to download: "+
 		"\n Eclipse \n Microsoft Visual Studio \n NeatBeans \n IntelliJ IDEA \n PyCharm \n Code:: Blocks \n Komodo " + "\n" + "input here: ");
 		String newscan = scan.nextLine();
 		
