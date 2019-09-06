@@ -18,3 +18,8 @@
 <pre id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" style="text-align: left;" data-placeholder="&Mu;&epsilon;&tau;ά&phi;&rho;&alpha;&sigma;&eta;"><span style="text-decoration: underline;"><em><strong><span lang="en" tabindex="0">Upgrading soon</span></strong></em></span></pre>
 -GUI
 </div>
+Changed
+///////
+System.out.println("Please copy paste one IDE of the following to download: ");
+to
+System.out.println("Please type the name of one IDE of the following to download: ");
