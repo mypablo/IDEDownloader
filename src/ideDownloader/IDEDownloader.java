@@ -13,6 +13,7 @@ public class IDEDownloader {
 		
 		
 		
+		
 		switch(newscan){
 		case "Eclipse": 
 			String url_open ="https://www.eclipse.org/downloads/";
